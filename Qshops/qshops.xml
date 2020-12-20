@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+  author="Włodzimierz Bartczak"
+  icon="qshops.svg"
+  version="0.1_2020-12-20"
+  shortdescription="Quick settings"
+  pl.shortdescription="Szybkie ustawienia"
+  description="Quick settings for shops in Poland"
+  pl.description="Szybkie ustawienia dla sklepów sieciowych w Polsce (Płatności i informacje globalne)">
+
+  <group name="qShops PL" icon="qshops.svg">
+    <item name="Lidl" icon="lidl.png" type="node,closedway">
+      <!-- Powtarzalne dane sieci Lidla -->
+      <key key="name" value="Lidl" />
+      <key key="brand" value="Lidl" />
+      <key key="brand:wikidata" value="Q151954" />
+      <key key="brand:wikipedia" value="en:Lidl" />
+      <key key="operator" value="Lidl sp. z o.o. sp.k" />
+      <key key="website" value="https://www.lidl.pl/"/>
+      <key key="shop" value="supermarket" />
+      <!-- Powtarzalne dane płatności dla Lidla zweryfikowane 15.12.2020 -->
+       <key key="payment:cash" value="yes" />
+       <key key="payment:contactless" value="yes" />
+       <key key="payment:visa_electron" value="yes" />
+       <key key="payment:visa_debit" value="yes" />
+       <key key="payment:visa" value="yes" />
+       <key key="payment:maestro" value="yes" />
+       <key key="payment:mastercard" value="yes" />
+       <key key="payment:diners_club" value="yes" />
+       <key key="payment:jcb" value="yes" />
+       <key key="payment:blik" value="yes" />
+       <key key="payment:google_pay" value="yes" />
+       <key key="payment:apple_pay" value="yes" />
+       <key key="payment:sodexo" value="yes" />
+    </item>
+    <item name="Żabka" icon="zabka.png" type="node,closeway">
+      <!-- Powtarzane dane sieci Żabka -->
+      <key key="name" value="Żabka"/>
+      <key key="name:uk" value="Жабка"/>
+      <key key="brand" value="Żabka"/>
+      <key key="brand:wikidata" value="Q2589061"/>
+      <key key="brand:wikipedia" value="pl:Żabka (sieć sklepów)"/>
+      <key key="website" value="https://www.zabka.pl/"/>
+      <key key="shop" value="convenience" />
+      <!-- Powtarzalne dane płatności dla Żabki zweryfikowane 15.12.2020 -->
+       <key key="payment:cash" value="yes" />
+       <key key="payment:contactless" value="yes" />
+       <key key="cash_withdrawal" value="yes" />
+       <key key="payment:maestro" value="yes" />
+       <key key="payment:mastercard" value="yes" />
+       <key key="payment:diners_club" value="yes" />
+       <key key="payment:american_express" value="yes" />
+       <key key="payment:blik" value="yes" />
+       <key key="payment:google_pay" value="yes" />
+       <key key="payment:apple_pay" value="yes" />
+    </item>
+    <item name="Biedronka" icon="biedronka.png" type="node,closedway">
+      <!-- Powtarzane dane sieci Biedronka -->
+      <key key="name" value="Biedronka" />
+      <key key="name:ru" value="Бедронка" />
+      <key key="brand" value="Biedronka"/>
+      <key key="brand:wikidata" value="Q857182"/>
+      <key key="brand:wikipedia" value="pl:Biedronka (sieć handlowa)"/>
+      <key key="operator" value="Jeronimo Martins Polska S.A." />
+      <key key="shop" value="supermarket" />
+      <key key="website" value="https://www.biedronka.pl"/>
+      <key key="email" value="bok@biedronka.eu"/>
+      <!-- Powtarzalne dane płatności dla Biedronki zweryfikowane 15.12.2020 -->
+       <key key="payment:cash" value="yes" />
+       <key key="payment:contactless" value="yes" />
+       <key key="payment:visa_electron" value="yes" />
+       <key key="payment:visa_debit" value="yes" />
+       <key key="payment:visa" value="yes" />
+       <key key="payment:maestro" value="yes" />
+       <key key="payment:mastercard" value="yes" />
+       <key key="payment:diners_club" value="yes" />
+       <key key="payment:blik" value="yes" />
+       <key key="payment:sodexo" value="yes" />
+    </item>
+  </group>
+</presets>
+
+
