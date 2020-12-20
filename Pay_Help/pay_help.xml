@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets
+    xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+	author="Cristoffs"
+	version="0.1_2020-12-20"
+	icon="card_icon_62.png"
+	
+	description="Presets for payment methods"
+	shortdescription="Payment methods"
+	
+	pl.description="Szablon dla metod płatności"
+	pl.shortdescription="Metody płatności">
+  
+<item name="Payments" pl.name="Płatności" icon="card_icon_62.png" type="node,closedway">
+    <label text="Payments methods" pl.text="Metody płatności" />
+    
+    <!-- Payment methods -->
+    <label text="Payments" pl.text="Rodzaj płatności i usługi"/>
+        <check key="payment:cash" text="Cash" pl.text="Gotówka" default="on"/>
+        <check key="payment:contactless" text="Contactless" pl.text="Zbliżeniowo" default="on"/>
+        <check key="cash_withdrawal" text="Cash withdrawal" pl.text="Wypłata gotówki" default="on"/>
+
+    <space />
+    <label text="Cards accepted" pl.text="Akceptowane karty"/>
+        <check key="payment:maestro" text="Maestro" default="on" />
+        <check key="payment:mastercard" text="Maestro" default="on" />
+        <check key="payment:visa_debit" text="Visa Debit" default="on" />
+        <check key="payment:visa_electron" text="Visa Electron" default="on" />
+        <check key="payment:diners_club" text="Diners Club" default="on" />
+        <check key="payment:american_express" text="American Express" default="on" />
+        <check key="payment:visa" text="Visa" default="on" />
+        <check key="payment:jcb" text="JCB" default="on" />
+           
+    <space />
+    <label text="Other payments" pl.text="Inne płatności"/>
+        <check key="payment:sodexo" text="Sodexo" default="on" />
+        <check key="payment:blik" text="Blik" default="on" />
+        <check key="payment:google_pay" text="Google Pay" default="on" />
+        <check key="payment:apple_pay" text="Apple Pay" default="on" />
+
+    <space />
+    <preset_link preset_name="Address" />
+    <space />
+  </item>
+</presets>
