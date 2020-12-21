@@ -19,3 +19,6 @@ W przygotowaniu
 - [ ] Kaufland
 - [ ] Dino
 - [ ] Polo Market
+
+Do zrobienia lub aktualizacj:
+- [ ] Dodanie namiarów na infolinię
