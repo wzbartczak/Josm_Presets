@@ -22,3 +22,6 @@ W przygotowaniu
 
 Do zrobienia lub aktualizacj:
 - [ ] Dodanie namiarów na infolinię
+- [ ] Usuwanie tagów:
+  - payment:debit_cards
+  - payment:credit_cards
