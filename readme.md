@@ -5,6 +5,8 @@ Obecnie dostępne są następujące szablony:
 - Pay_Help (Ułatwia oznaczanie płatności bezgotówkowych)
 - QShops (Ułatwia oznaczanie sklepów najpopularniejszych sieci handlowych w Polsce)
 
-Więcej informacji i opisów w poszczególnych katalogach.
+## Instalacja
 
-Chcesz zapytać? Masz pomysł? Utwórz Issue!
+Otwórz **"Ustawienia"** (F12) - dziesiąta zakładka od góry (JOSM wersja 17329) **Szablony** - znak "+" dodaje szablon - musisz wskazać loklizację pliku zip.
+
+Najlepiej korzystać dodając poszczególny szablon do paska skrótów. 
