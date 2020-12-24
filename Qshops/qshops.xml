@@ -32,6 +32,10 @@
        <key key="payment:google_pay" value="yes" />
        <key key="payment:apple_pay" value="yes" />
        <key key="payment:sodexo" value="yes" />
+       <!-- Usuwanie zbędnych tagów-->
+       <key key="payment:debit_cards" />
+       <key key="payment:credit_cards" />
+       <key key="payment:coins" />
     </item>
     <item name="Żabka" icon="zabka.png" type="node,closeway">
       <!-- Powtarzane dane sieci Żabka -->
@@ -53,6 +57,10 @@
        <key key="payment:blik" value="yes" />
        <key key="payment:google_pay" value="yes" />
        <key key="payment:apple_pay" value="yes" />
+       <!-- Usuwanie zbędnych tagów-->
+       <key key="payment:debit_cards" />
+       <key key="payment:credit_cards" />
+       <key key="payment:coins" />
     </item>
     <item name="Biedronka" icon="biedronka.png" type="node,closedway">
       <!-- Powtarzane dane sieci Biedronka -->
@@ -76,6 +84,10 @@
        <key key="payment:diners_club" value="yes" />
        <key key="payment:blik" value="yes" />
        <key key="payment:sodexo" value="yes" />
+       <!-- Usuwanie zbędnych tagów-->
+       <key key="payment:debit_cards" />
+       <key key="payment:credit_cards" />
+       <key key="payment:coins" />
     </item>
   </group>
 </presets>
