@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+  author="Włodzimierz Bartczak"
+  icon=""
+  version="0.1_2020-12-20"
+  shortdescription="Quick cliks"
+  pl.shortdescription="Szybkie tagowanie"
+  description="Quick cliks for many features"
+  pl.description="Szybkie tagowanie dla wielu cech">
+ <group name="qCliks" icon="">
+    <!--Tworzy staw-->
+    <item name="Pond" pl.name="Staw" icon="" type="closedway">
+    <key key="natural" value="water" />
+    <key key="water" value="pond" />
+    </item>
+    <!--Tworzy przepust-->
+    <item name="Culvert" pl.name="Przepust" icon="presets/transport/passage/tunnel_culvert.svg" type="way">
+    <key key="tunnel" value="culvert" />
+    <key key="layer" value="-1" />
+    </item>
+    <!--Tworzy obszar szuwar-->
+    <item name="Reedbed" pl.name="Szuwary" icon="" type="closeway">
+    <key key="natural" value="wetland" />
+    <key key="wetland" value="reedbed" />
+    </item>
+    <!--Usuwa przestarzałe znaczniki-->
+    <item name="is_in" pl.name="is_in" icon="" type="node">
+    <key key="is_in:county" />
+    <key key="is_in:municipality" />
+    <key key="is_in:province" />
+    </item>
+</group>
+
+</presets>
