@@ -28,6 +28,7 @@
     <key key="is_in:county" />
     <key key="is_in:municipality" />
     <key key="is_in:province" />
+    <key key="is_in:village" />
     <key key="is_in" />
     </item>
 </group>
