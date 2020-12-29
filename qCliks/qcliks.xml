@@ -30,6 +30,7 @@
     <key key="is_in:province" />
     <key key="is_in:village" />
     <key key="is_in" />
+    <key key="is_in:city" />
     </item>
 </group>
 
