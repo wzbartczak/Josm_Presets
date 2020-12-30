@@ -18,6 +18,17 @@
     <key key="tunnel" value="culvert" />
     <key key="layer" value="-1" />
     </item>
+    <!-- Tworzy most razem z warstwą-->
+    <item name="Bridge" pl.name="Most" icon="" type="closeway">
+    <key key="bridge" value="yes" />
+    <key key="layer" value="1" />
+    </item>
+    <!--Tworzy podjazd do posesji-->
+    <item name="Driveway" pl.name="Podjazd" icon="" type="way">
+    <key key="hifhway" value="service" />
+    <key key="service" value="driveway" />
+    </item>
+
     <!--Tworzy obszar szuwar-->
     <item name="Reedbed" pl.name="Szuwary" icon="" type="closeway">
     <key key="natural" value="wetland" />
