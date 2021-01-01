@@ -9,7 +9,7 @@
   pl.description="Szybkie tagowanie dla wielu cech">
  <group name="qCliks" icon="">
     <!--Tworzy staw-->
-    <item name="Pond" pl.name="Staw" icon="" type="closedway">
+    <item name="Pond" pl.name="Staw" icon="pond.svg" type="closedway">
     <key key="natural" value="water" />
     <key key="water" value="pond" />
     </item>
