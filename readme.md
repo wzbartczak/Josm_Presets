@@ -4,6 +4,7 @@ Szablony ułatwiające tagowanie obiektów OpenStreetMap w programie JOSM. Więk
 Obecnie dostępne są następujące szablony:
 - Pay_Help (Ułatwia oznaczanie płatności bezgotówkowych)
 - QShops (Ułatwia oznaczanie sklepów najpopularniejszych sieci handlowych w Polsce)
+- qClikc (Przy pomocy skrótu pozwala dodawać lub usuwać zestawy tagów)
 
 ## Instalacja
 
