@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="3.072"
+   inkscape:export-xdpi="3.072"
+   inkscape:export-filename="F:\00.Github_OSM\quick_shops\qshops\biedronka.png"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="500"
+   width="500"
+   sodipodi:docname="kaufland.svg"
+   xml:space="preserve"
+   viewBox="0 0 500.00001 500"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+     id="metadata19"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs17" /><sodipodi:namedview
+     inkscape:current-layer="Layer_1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="275.93649"
+     inkscape:cx="384.50983"
+     inkscape:zoom="1.4142136"
+     inkscape:snap-page="true"
+     borderlayer="true"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:snap-global="true"
+     showgrid="false"
+     id="namedview15"
+     inkscape:window-height="1051"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:document-rotation="0" /><style
+     id="style2"
+     type="text/css"><![CDATA[
+	.st0{fill:#393939;}
+	.st1{fill:#D8453E;}
+]]></style><style
+     type="text/css"
+     id="style21"><![CDATA[
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#F6C32E;}
+	.st1{fill:#393939;}
+]]></style><path
+     d="M 18.346809,-16.570369 H 500 V 513.48313 H 18.346809 Z"
+     id="path2920"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.76198" /><g
+     transform="matrix(1.1207474,0,0,1,-41.23147,1.928687)"
+     id="g898"><path
+       style="fill:#214478;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.76198"
+       id="path2924"
+       d="M 49.892934,259.4753 H 230.54001 V 482.48008 H 49.892934 Z" /><path
+       style="fill:#214478;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.76198"
+       id="path2926"
+       d="M 49.892934,13.662546 H 230.54001 V 236.65745 H 49.892934 Z" /><path
+       style="fill:#214478;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.76198"
+       id="path2928"
+       d="M 254.9574,13.662546 H 469.81645 L 254.9574,236.64755 Z" /><path
+       style="fill:#214478;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.76198"
+       id="path2930"
+       d="M 254.9574,259.4753 469.81645,482.48008 H 254.9574 Z" /></g></svg>

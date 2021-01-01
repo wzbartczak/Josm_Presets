@@ -97,17 +97,17 @@
        <key key="payment:coins" />
     </item>
     <item name="Netto" icon="netto.png" type="node,closedway">
-      <!-- Powtarzane dane sieci Biedronka -->
+      <!-- Powtarzane dane sieci Netto -->
       <key key="name" value="Netto" />
       <key key="brand" value="Netto"/>
       <key key="brand:wikidata" value="Q552652"/>
       <key key="brand:wikipedia" value="pl:Netto (duńska sieć handlowa)"/>
       <key key="operator" value="Netto Sp. z o.o." />
       <key key="shop" value="supermarket" />
-      <key key="website" value="website": "http://www.netto.pl"/>
+      <key key="website" value="http://www.netto.pl"/>
       <key key="email" value="netto@netto.pl"/>
       <key key="phone" value="+48 91 46 99 999" />
-      <!-- Powtarzalne dane płatności dla Biedronki zweryfikowane 15.12.2020 -->
+      <!-- Powtarzalne dane płatności dla Netto zweryfikowane 15.12.2020 -->
        <key key="payment:cash" value="yes" />
        <key key="payment:contactless" value="yes" />
        <key key="payment:visa_electron" value="yes" />
@@ -122,6 +122,31 @@
        <key key="payment:debit_cards" />
        <key key="payment:credit_cards" />
        <key key="payment:coins" />
+    </item name = "Kaufland" icon="kaufland.svg" type="node,closedway">
+       <!-- Powtarzane dane sieci Kaufland -->
+       <key key="name" value="Kaufland" />
+       <key key="brand" value="Kaufland"/>
+       <key key="brand:wikidata" value="Q685967"/>
+       <key key="brand:wikipedia" value="pl:Kaufland"/>
+       <key key="operator" value="Kaufland Polska Markety Sp. z o. o. Sp.k." />
+       <key key="shop" value="supermarket" />
+       <key key="website" value="https://www.kaufland.pl/"/>
+       <key key="phone" value="+48 800 300 062" />
+       <!-- Powtarzalne dane płatności dla Kaufland zweryfikowane 15.12.2020 -->
+       <key key="payment:cash" value="yes" />
+       <key key="payment:contactless" value="yes" />
+       <key key="payment:visa_electron" value="yes" />
+       <key key="payment:visa_debit" value="yes" />
+       <key key="payment:visa" value="yes" />
+       <key key="payment:v_pay" value="yes" />
+       <key key="payment:maestro" value="yes" />
+       <key key="payment:mastercard" value="yes" />
+       <key key="payment:sodexo" value="yes" />
+       <!-- Usuwanie zbędnych tagów-->
+       <key key="payment:debit_cards" />
+       <key key="payment:credit_cards" />
+       <key key="payment:coins" />
+    <item>
     </item>
   </group>
 </presets>
