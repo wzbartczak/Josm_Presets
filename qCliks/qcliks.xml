@@ -19,7 +19,7 @@
     <key key="layer" value="-1" />
     </item>
     <!--Tworzy most-->
-    <item name="Culvert" pl.name="Przepust" icon="https://github.com/simonpoole/beautified-JOSM-preset/blob/master/icons/svg-osm-icons/highway/bridge_sp.svg" type="way">
+    <item name="Bridge" pl.name="Most" icon="https://github.com/simonpoole/beautified-JOSM-preset/blob/master/icons/svg-osm-icons/highway/bridge_sp.svg" type="way">
     <key key="bridge" value="yes" />
     <key key="layer" value="1" />
     </item>
