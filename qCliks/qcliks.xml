@@ -7,6 +7,7 @@
   pl.shortdescription="Szybkie tagowanie"
   description="Quick cliks for many features"
   pl.description="Szybkie tagowanie dla wielu cech">
+  <!-- usuwa fixme-->
  <group name="qCliks" icon="">
     <!--Tworzy staw-->
     <item name="Pond" pl.name="Staw" icon="pond.svg" type="closedway">
