@@ -28,7 +28,6 @@
     <key key="hifhway" value="service" />
     <key key="service" value="driveway" />
     </item>
-
     <!--Tworzy obszar szuwar-->
     <item name="Reedbed" pl.name="Szuwary" icon="" type="closeway">
     <key key="natural" value="wetland" />
