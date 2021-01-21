@@ -43,6 +43,13 @@
     <key key="is_in" />
     <key key="is_in:city" />
     </item>
+    <!--Usuwa tagi adresowe z budynków-->
+    <item name="no_adress" icon="" type="closeway">
+    <key key="" />
+    <key key="" />
+    <key key="" />
+    <key key="" />
+    </item>
 </group>
 
 </presets>
