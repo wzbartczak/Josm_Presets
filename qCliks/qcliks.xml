@@ -26,7 +26,7 @@
     </item>
     <!--Tworzy podjazd do posesji-->
     <item name="Driveway" pl.name="Podjazd" icon="" type="way">
-    <key key="hifhway" value="service" />
+    <key key="highway" value="service" />
     <key key="service" value="driveway" />
     </item>
     <!--Tworzy obszar szuwar-->
@@ -44,7 +44,7 @@
     <key key="is_in:city" />
     </item>
     <!--Usuwa tagi adresowe z budynków-->
-    <item name="no_adress" icon="no_adres.png" type="closeway">
+    <item name="no_adress" icon="no_adres.png" type="way">
     <key key="addr:city" />
     <key key="addr:city:simc" />
     <key key="addr:housenumber" />
