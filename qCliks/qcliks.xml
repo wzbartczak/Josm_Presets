@@ -44,7 +44,7 @@
     <key key="is_in:city" />
     </item>
     <!--Usuwa tagi adresowe z budynków-->
-    <item name="no_adress" icon="no_adres.png" type="way">
+    <item name="no_adress" icon="no_adres.png" type="closedway">
     <key key="addr:city" />
     <key key="addr:city:simc" />
     <key key="addr:housenumber" />
