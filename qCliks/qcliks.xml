@@ -35,7 +35,7 @@
     <key key="wetland" value="reedbed" />
     </item>
     <!--Usuwa przestarzałe znaczniki-->
-    <item name="is_in" pl.name="is_in" icon="is_in.svg" type="node">
+    <item name="is_in" pl.name="is_in" icon="is_in.png" type="node">
     <key key="is_in:county" />
     <key key="is_in:municipality" />
     <key key="is_in:province" />
