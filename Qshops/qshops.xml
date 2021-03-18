@@ -122,7 +122,8 @@
        <key key="payment:debit_cards" />
        <key key="payment:credit_cards" />
        <key key="payment:coins" />
-    </item name = "Kaufland" icon="kaufland.svg" type="node,closedway">
+    </item>
+    <item name="Kaufland" icon="kaufland.svg" type="node,closedway">
        <!-- Powtarzane dane sieci Kaufland -->
        <key key="name" value="Kaufland" />
        <key key="brand" value="Kaufland"/>
@@ -146,9 +147,6 @@
        <key key="payment:debit_cards" />
        <key key="payment:credit_cards" />
        <key key="payment:coins" />
-    <item>
     </item>
   </group>
 </presets>
-
-
