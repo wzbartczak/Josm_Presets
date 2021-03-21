@@ -44,13 +44,19 @@
     <key key="is_in:city" />
     </item>
     <!--Usuwa tagi adresowe z budynków-->
-    <item name="no_adress" icon="no_adres.png" type="closedway">
+    <item name="no_adress" icon="no_adres.png" type="way,closedway">
     <key key="addr:city" />
     <key key="addr:city:simc" />
     <key key="addr:housenumber" />
     <key key="addr:postcode" />
     <key key="addr:street" />
     <key key="addr:street:sym_u" />
+    <key key="source:addr" />
+    <key key="addr:country" />
+    <key key="addr:district" />
+    <key key="addr:province" />
+    <key key="addr:state" />
+    <key key="addr:subdistrict" />
     </item>
 </group>
 
