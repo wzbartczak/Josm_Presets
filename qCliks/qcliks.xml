@@ -57,6 +57,8 @@
     <key key="addr:province" />
     <key key="addr:state" />
     <key key="addr:subdistrict" />
+    <key key="addr:place" />
+    <key key="addr:street:sym_ul" />
     </item>
 </group>
 
