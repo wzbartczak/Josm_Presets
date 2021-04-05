@@ -20,7 +20,7 @@
     <key key="layer" value="-1" />
     </item>
     <!--Tworzy most i warstwę-->
-    <item name="Bridge" pl.name="Most" icon="bridge.png" type="way">
+    <item name="Bridge" pl.name="Most" icon="presets/transport/bridge/bridge.svg" type="way">
     <key key="bridge" value="yes" />
     <key key="layer" value="1" />
     </item>
