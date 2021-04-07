@@ -19,24 +19,24 @@
       <key key="website" value="https://www.lidl.pl/"/>
       <key key="shop" value="supermarket" />
       <!-- Powtarzalne dane płatności dla Lidla zweryfikowane 15.12.2020 -->
-       <key key="payment:cash" value="yes" />
-       <key key="payment:contactless" value="yes" />
-       <key key="payment:visa_electron" value="yes" />
-       <key key="payment:visa_debit" value="yes" />
-       <key key="payment:v_pay" value="yes" />
-       <key key="payment:visa" value="yes" />
-       <key key="payment:maestro" value="yes" />
-       <key key="payment:mastercard" value="yes" />
-       <key key="payment:diners_club" value="yes" />
-       <key key="payment:jcb" value="yes" />
-       <key key="payment:blik" value="yes" />
-       <key key="payment:google_pay" value="yes" />
-       <key key="payment:apple_pay" value="yes" />
-       <key key="payment:sodexo" value="yes" />
-       <!-- Usuwanie zbędnych tagów-->
-       <key key="payment:debit_cards" />
-       <key key="payment:credit_cards" />
-       <key key="payment:coins" />
+      <key key="payment:cash" value="yes" />
+      <key key="payment:contactless" value="yes" />
+      <key key="payment:visa_electron" value="yes" />
+      <key key="payment:visa_debit" value="yes" />
+      <key key="payment:v_pay" value="yes" />
+      <key key="payment:visa" value="yes" />
+      <key key="payment:maestro" value="yes" />
+      <key key="payment:mastercard" value="yes" />
+      <key key="payment:diners_club" value="yes" />
+      <key key="payment:jcb" value="yes" />
+      <key key="payment:blik" value="yes" />
+      <key key="payment:google_pay" value="yes" />
+      <key key="payment:apple_pay" value="yes" />
+      <key key="payment:sodexo" value="yes" />
+      <!-- Usuwanie zbędnych tagów-->
+      <key key="payment:debit_cards" />
+      <key key="payment:credit_cards" />
+      <key key="payment:coins" />
     </item>
     <item name="Żabka" icon="zabka.png" type="node,closeway">
       <!-- Powtarzane dane sieci Żabka -->
@@ -48,24 +48,24 @@
       <key key="website" value="https://www.zabka.pl/"/>
       <key key="shop" value="convenience" />
       <!-- Powtarzalne dane płatności dla Żabki zweryfikowane 15.12.2020 -->
-       <key key="payment:cash" value="yes" />
-       <key key="payment:contactless" value="yes" />
-       <key key="cash_withdrawal" value="yes" />
-       <key key="payment:maestro" value="yes" />
-       <key key="payment:mastercard" value="yes" />
-       <key key="payment:visa_electron" value="yes" />
-       <key key="payment:visa_debit" value="yes" />
-       <key key="payment:v_pay" value="yes" />
-       <key key="payment:visa" value="yes" />
-       <key key="payment:diners_club" value="yes" />
-       <key key="payment:american_express" value="yes" />
-       <key key="payment:blik" value="yes" />
-       <key key="payment:google_pay" value="yes" />
-       <key key="payment:apple_pay" value="yes" />
-       <!-- Usuwanie zbędnych tagów-->
-       <key key="payment:debit_cards" />
-       <key key="payment:credit_cards" />
-       <key key="payment:coins" />
+      <key key="payment:cash" value="yes" />
+      <key key="payment:contactless" value="yes" />
+      <key key="cash_withdrawal" value="yes" />
+      <key key="payment:maestro" value="yes" />
+      <key key="payment:mastercard" value="yes" />
+      <key key="payment:visa_electron" value="yes" />
+      <key key="payment:visa_debit" value="yes" />
+      <key key="payment:v_pay" value="yes" />
+      <key key="payment:visa" value="yes" />
+      <key key="payment:diners_club" value="yes" />
+      <key key="payment:american_express" value="yes" />
+      <key key="payment:blik" value="yes" />
+      <key key="payment:google_pay" value="yes" />
+      <key key="payment:apple_pay" value="yes" />
+      <!-- Usuwanie zbędnych tagów-->
+      <key key="payment:debit_cards" />
+      <key key="payment:credit_cards" />
+      <key key="payment:coins" />
     </item>
     <item name="Biedronka" icon="biedronka.png" type="node,closedway">
       <!-- Powtarzane dane sieci Biedronka -->
@@ -80,21 +80,21 @@
       <key key="email" value="bok@biedronka.eu"/>
       <key key="phone" value="+48 22 205 33 00" />
       <!-- Powtarzalne dane płatności dla Biedronki zweryfikowane 15.12.2020 -->
-       <key key="payment:cash" value="yes" />
-       <key key="payment:contactless" value="yes" />
-       <key key="payment:visa_electron" value="yes" />
-       <key key="payment:visa_debit" value="yes" />
-       <key key="payment:visa" value="yes" />
-       <key key="payment:v_pay" value="yes" />
-       <key key="payment:maestro" value="yes" />
-       <key key="payment:mastercard" value="yes" />
-       <key key="payment:diners_club" value="yes" />
-       <key key="payment:blik" value="yes" />
-       <key key="payment:sodexo" value="yes" />
-       <!-- Usuwanie zbędnych tagów-->
-       <key key="payment:debit_cards" />
-       <key key="payment:credit_cards" />
-       <key key="payment:coins" />
+      <key key="payment:cash" value="yes" />
+      <key key="payment:contactless" value="yes" />
+      <key key="payment:visa_electron" value="yes" />
+      <key key="payment:visa_debit" value="yes" />
+      <key key="payment:visa" value="yes" />
+      <key key="payment:v_pay" value="yes" />
+      <key key="payment:maestro" value="yes" />
+      <key key="payment:mastercard" value="yes" />
+      <key key="payment:diners_club" value="yes" />
+      <key key="payment:blik" value="yes" />
+      <key key="payment:sodexo" value="yes" />
+      <!-- Usuwanie zbędnych tagów-->
+      <key key="payment:debit_cards" />
+      <key key="payment:credit_cards" />
+      <key key="payment:coins" />
     </item>
     <item name="Netto" icon="netto.png" type="node,closedway">
       <!-- Powtarzane dane sieci Netto -->
@@ -108,20 +108,20 @@
       <key key="email" value="netto@netto.pl"/>
       <key key="phone" value="+48 91 46 99 999" />
       <!-- Powtarzalne dane płatności dla Netto zweryfikowane 15.12.2020 -->
-       <key key="payment:cash" value="yes" />
-       <key key="payment:contactless" value="yes" />
-       <key key="payment:visa_electron" value="yes" />
-       <key key="payment:visa_debit" value="yes" />
-       <key key="payment:visa" value="yes" />
-       <key key="payment:v_pay" value="yes" />
-       <key key="payment:maestro" value="yes" />
-       <key key="payment:mastercard" value="yes" />
-       <key key="payment:blik" value="yes" />
-       <key key="payment:sodexo" value="yes" />
-       <!-- Usuwanie zbędnych tagów-->
-       <key key="payment:debit_cards" />
-       <key key="payment:credit_cards" />
-       <key key="payment:coins" />
+      <key key="payment:cash" value="yes" />
+      <key key="payment:contactless" value="yes" />
+      <key key="payment:visa_electron" value="yes" />
+      <key key="payment:visa_debit" value="yes" />
+      <key key="payment:visa" value="yes" />
+      <key key="payment:v_pay" value="yes" />
+      <key key="payment:maestro" value="yes" />
+      <key key="payment:mastercard" value="yes" />
+      <key key="payment:blik" value="yes" />
+      <key key="payment:sodexo" value="yes" />
+      <!-- Usuwanie zbędnych tagów-->
+      <key key="payment:debit_cards" />
+      <key key="payment:credit_cards" />
+      <key key="payment:coins" />
     </item>
     <item name="Kaufland" icon="kaufland.svg" type="node,closedway">
        <!-- Powtarzane dane sieci Kaufland -->
@@ -134,19 +134,46 @@
        <key key="website" value="https://www.kaufland.pl/"/>
        <key key="phone" value="+48 800 300 062" />
        <!-- Powtarzalne dane płatności dla Kaufland zweryfikowane 15.12.2020 -->
-       <key key="payment:cash" value="yes" />
-       <key key="payment:contactless" value="yes" />
-       <key key="payment:visa_electron" value="yes" />
-       <key key="payment:visa_debit" value="yes" />
-       <key key="payment:visa" value="yes" />
-       <key key="payment:v_pay" value="yes" />
-       <key key="payment:maestro" value="yes" />
-       <key key="payment:mastercard" value="yes" />
-       <key key="payment:sodexo" value="yes" />
+       <key key="payment:cash" value="yes"/>
+       <key key="payment:contactless" value="yes"/>
+       <key key="payment:visa_electron" value="yes"/>
+       <key key="payment:visa_debit" value="yes"/>
+       <key key="payment:visa" value="yes"/>
+       <key key="payment:v_pay" value="yes"/>
+       <key key="payment:maestro" value="yes"/>
+       <key key="payment:mastercard" value="yes"/>
+       <key key="payment:sodexo" value="yes"/>
        <!-- Usuwanie zbędnych tagów-->
-       <key key="payment:debit_cards" />
-       <key key="payment:credit_cards" />
-       <key key="payment:coins" />
+       <key key="payment:debit_cards"/>
+       <key key="payment:credit_cards"/>
+       <key key="payment:coins"/>
+    </item>
+    <item name="Orlen" icon="" type="node,closedway">
+      <!-- Powtarzane dane stacji paliw -->
+      <key key="name" value="Orlen" />
+      <key key="brand" value="Orlen"/>
+      <key key="brand:wikidata" value="Q971649"/>
+      <key key="brand:wikipedia" value="en:PKN Orlen"/>
+      <key key="operator" value="PKN Orlen S.A." />
+      <key key="amenity" value="fuel"/>
+      <key key="website" value="https://www.orlen.pl/"/>
+      <key key="phone" value="+48 801 167 536" />
+      <!-- Powtarzalne dane płatności dla stacji Orlen zweryfikowane 07.04.2021 -->
+      <key key="payment:cash" value="yes"/>
+      <key key="payment:contactless" value="yes"/>
+      <key key="payment:visa_electron" value="yes"/>
+      <key key="payment:visa_debit" value="yes"/>
+      <key key="payment:visa" value="yes"/>
+      <key key="payment:maestro" value="yes"/>
+      <key key="payment:mastercard" value="yes"/>
+      <key key="payment:blik" value="yes"/>
+      <!-- Obsługa kart paliwowych-->
+      <key key="payment:dkv" value="yes"/>
+      <key key="payment:uta" value="yes"/>
+      <!-- Usuwanie zbędnych tagów-->
+      <key key="payment:debit_cards"/>
+      <key key="payment:credit_cards"/>
+      <key key="payment:coins"/>
     </item>
   </group>
 </presets>

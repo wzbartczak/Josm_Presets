@@ -59,6 +59,7 @@
     <key key="addr:subdistrict" />
     <key key="addr:place" />
     <key key="addr:street:sym_ul" />
+    <key key="fixme" />
     </item>
 </group>
 
