@@ -7,46 +7,46 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="3.0699999"
-   inkscape:export-xdpi="3.0699999"
-   inkscape:export-filename="D:\GitHub\josm_presets\Josm_Presets\Qshops\netto.png"
-   version="1.1"
-   id="netto_logo_v4_svg"
-   x="0px"
-   y="0px"
-   viewBox="0 0 499.99999 499.99999"
-   xml:space="preserve"
-   sodipodi:docname="netto.svg"
-   width="500"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    height="500"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"><metadata
+   width="500"
+   sodipodi:docname="netto.svg"
+   xml:space="preserve"
+   viewBox="0 0 499.99999 499.99999"
+   y="0px"
+   x="0px"
+   id="netto_logo_v4_svg"
+   version="1.1"
+   inkscape:export-filename="D:\GitHub\josm_presets\Josm_Presets\Qshops\netto.png"
+   inkscape:export-xdpi="6.1440001"
+   inkscape:export-ydpi="6.1440001"><metadata
    id="metadata25"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Netto Logo 4</dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs23" /><sodipodi:namedview
-   inkscape:document-rotation="0"
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1051"
-   id="namedview21"
-   showgrid="false"
-   inkscape:zoom="1.702"
-   inkscape:cx="250"
-   inkscape:cy="198.96552"
-   inkscape:window-x="-9"
-   inkscape:window-y="-9"
+   inkscape:current-layer="netto_logo_v4_svg"
    inkscape:window-maximized="1"
-   inkscape:current-layer="netto_logo_v4_svg" />
+   inkscape:window-y="-9"
+   inkscape:window-x="-9"
+   inkscape:cy="239.11436"
+   inkscape:cx="250"
+   inkscape:zoom="1.702"
+   showgrid="false"
+   id="namedview21"
+   inkscape:window-height="1051"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   inkscape:document-rotation="0" />
 <style
-   type="text/css"
-   id="style2">
+   id="style2"
+   type="text/css">
 	.st0{fill:#242424;}
 	.st1{fill:#FAD85B;}
 </style>
@@ -59,13 +59,13 @@
 
 
 <g
-   id="g865"
-   transform="matrix(2.31547,0,0,2.3320516,-328.86751,-333.0129)"><path
-     style="fill:#214478;fill-opacity:1"
+   transform="matrix(2.31547,0,0,2.3320516,-328.86751,-333.0129)"
+   id="g865"><path
+     id="path14"
      d="M 250,143.69922 C 191.3,143.69922 143.69922,191.3 143.69922,250 143.69922,308.7 191.3,356.30078 250,356.30078 308.7,356.30078 356.30078,308.7 356.30078,250 356.30078,191.3 308.7,143.69922 250,143.69922 Z m 0,6.5 c 55.11063,0 99.80078,44.69015 99.80078,99.80078 0,55.11063 -44.69015,99.80078 -99.80078,99.80078 -55.11063,0 -99.80078,-44.69015 -99.80078,-99.80078 0,-55.11063 44.69015,-99.80078 99.80078,-99.80078 z"
-     id="path14" /><path
-     style="fill:#214478;fill-opacity:1"
-     id="path18"
+     style="fill:#214478;fill-opacity:1" /><path
+     class="st1"
      d="m 315.92108,304.08821 -83.2,-120.4 c -1.3,-1.8 -2.1,-1.2 -2.2,-0.4 -0.1,4.2 -0.1,8.4 -0.2,12.6 0,1 -0.2,1 -0.5,0.7 -2.9,-2.2 -4.9,-4.9 -7.5,-7.3 -0.5,-0.4 -1.2,-0.3 -1.6,0.1 -0.2,0.2 -0.3,0.5 -0.3,0.8 l 1.7,9.3 c 0.2,1.7 1.3,4 0,5.3 -2.7,3.5 -5.3,-1.3 -8.2,-1.3 -2.2,1.1 1.6,2.9 0.4,4.4 -2.4,-2 -5.8,-4.4 -9.1,-3.3 0.2,2.2 3.7,3.1 3.5,5.5 -1.9,-1.8 -4.5,-2.8 -7.1,-2.9 -0.9,0 -2.6,-0.5 -2.7,0.9 1.1,1.3 3.1,1.8 4.2,3.3 0.2,0.7 0.4,1.5 -0.4,1.8 -6,1.8 -12,3.8 -17.9,6.2 -1.2,1 -1.7,2.5 -1.5,4 2.5,8.8 6,16.4 5.3,27 -0.2,0.7 0.7,1.1 1.3,0.7 l 5.7,-6.6 c 1.6,0.4 0.5,2.9 0.9,4 0,1.1 -0.2,3.3 1.3,2.7 1.5,-1.6 3.1,-4.2 4.7,-5.1 -0.2,2.4 0.4,5.1 -0.2,8 l -16.8,0.2 c -0.2,9.5 0.2,19.7 0,31.2 0,4.9 1.5,7.7 5.5,7.7 h 30.3 c 5,0 6.4,-2.2 6.4,-6 v -32.7 l -17.3,-0.4 c 0.5,-4.4 -2,-7.8 2.5,-11.5 2.9,-2.4 0.7,3.3 2.4,3.3 3.8,-2.4 5.5,-8.8 10.8,-8.8 2.4,0.2 4.3,2.1 4.4,4.5 l 0.4,53 c -0.6,7.6 -2.7,7.7 -8,13.9 -0.6,1.7 -0.6,3.6 0,5.3 0.8,1.7 2.4,3 4.2,3.5 l 81.2,0.2 c 2.6,-0.4 4.9,-1.7 6.6,-3.6 1.9,-2.8 2.4,-6.5 1,-9.8 m -111.6,-67.8 h 4.2 l 0.2,18.1 -4.6,-0.2 z m -16.8,53.1 c -1.2,-3.1 -0.9,-7.8 -0.1,-10.4 h 0.6 l 4.2,4.9 z m 33.6,-17.9 c 1.4,-2 3,-3.9 4.9,-5.5 v 9.8 l -0.5,0.4 z m 4,7.1 -4.4,4.9 -6.4,-6.9 4.4,-4.7 c 2,1.9 4.6,4.5 6.4,6.7 z m -4.4,-9.5 -5.3,-5.8 c 2.9,-0.2 5.8,0 8.9,0 l 0.7,0.7 c -1.2,1.8 -2.7,3.5 -4.3,5.1 z m -2.4,0 c -1.8,2.5 -3.8,4.9 -6,7.1 -1.5,-1.4 -3.1,-3.1 -4.4,-4.6 l 0.2,-0.7 5.8,-6.4 z m -6.5,9.5 c -1.2,1.7 -2.6,3.3 -4.2,4.7 l -6.2,-6.9 4.2,-4.6 c 2.2,2.1 4.3,4.4 6.2,6.8 z m -4.2,-9.6 c -2,-1.5 -3.5,-3.7 -5.1,-5.3 2.9,-0.4 5.8,-0.5 8.8,-0.4 l 0.5,0.9 c -0.9,1.6 -2.9,3.3 -4.2,4.8 z m -2.2,0.3 -6,6.8 -0.5,-0.2 -4.2,-4.6 6.2,-6.9 z m -6.6,9.1 c -1.3,1.9 -2.8,3.6 -4.6,5.1 -2,-2.2 -4.2,-4.2 -6.2,-6.8 0.9,-2 2.9,-3.3 4.4,-5.1 z m -4.5,-9.6 -4.7,-5.3 c 2.8,-0.3 5.7,-0.4 8.6,-0.2 l 0.5,0.7 z m -2,0.3 c -1.6,2 -3.3,3.9 -5.1,5.7 l -0.2,-9.3 0.7,-1.1 c 1.7,0.9 3.1,3.1 4.6,4.7 z m -4.1,21.9 4,-4.7 c 2.2,1.6 3.7,3.8 5.3,5.8 -3.1,-0.2 -7.3,1 -9.3,-1.1 z m 6.4,-4.9 c 1.8,-2.6 4.2,-4.7 6.2,-7.1 1.6,1.1 2.9,3.1 4.6,4.6 l -0.2,0.6 -6.2,6.7 z m 7.5,6 c -0.4,0 -0.7,-0.5 -0.9,-0.9 l 4.4,-5.1 c 2,1.8 3.7,3.6 5.5,5.7 z m 5.8,-6.2 c 1.8,-2.4 4,-4.7 6,-6.9 l 4.6,4.9 -6.2,6.6 c -1.8,-1.3 -2.9,-3.3 -4.4,-4.6 z m 7.2,5.8 -0.5,-0.7 c 1.5,-1.6 2.5,-3.6 4.4,-4.7 l 4.8,5.3 c -2,1.2 -6.2,0.3 -8.7,0.1 z m 10,-1.2 -4.2,-4.4 5.1,-5.7 c 0.3,3.7 0.8,8.5 -0.9,10.1 z m 0.5,-34.5 c 0.5,1.6 0.2,3.7 0.4,5.5 h -38.8 c -0.2,-2 -0.5,-3.7 0,-5.5 z"
-     class="st1" /></g>
+     id="path18"
+     style="fill:#214478;fill-opacity:1" /></g>
 </svg>
