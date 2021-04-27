@@ -175,5 +175,30 @@
       <key key="payment:credit_cards"/>
       <key key="payment:coins"/>
     </item>
+    <item name="Pepco" icon="" type="node,closedway">
+      <!-- Powtarzane dane sklepów Pepco -->
+      <key key="name" value="Pepco" />
+      <key key="brand" value="Pepco"/>
+      <key key="brand:wikidata" value="Q11815580"/>
+      <key key="brand:wikipedia" value="pl:Pepco"/>
+      <key key="operator" value="Pepco Poland Sp. z o. o." />
+      <key key="shop" value="clothes"/>
+      <key key="website" value="https://pepco.pl/"/>
+      <key key="phone" value="+48 61 62 88 999" />
+      <key key="email" value="klient@pepco.eu"
+      <!-- Powtarzalne dane płatności dla stacji Orlen zweryfikowane 07.04.2021 -->
+      <key key="payment:cash" value="yes"/>
+      <key key="payment:contactless" value="yes"/>
+      <key key="payment:visa_electron" value="yes"/>
+      <key key="payment:visa_debit" value="yes"/>
+      <key key="payment:visa" value="yes"/>
+      <key key="payment:maestro" value="yes"/>
+      <key key="payment:mastercard" value="yes"/>
+      <key key="payment:sodexo" value="yes"/>
+      <!-- Usuwanie zbędnych tagów-->
+      <key key="payment:debit_cards"/>
+      <key key="payment:credit_cards"/>
+      <key key="payment:coins"/>
+    </item>
   </group>
 </presets>
