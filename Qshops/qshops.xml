@@ -185,7 +185,7 @@
       <key key="shop" value="clothes"/>
       <key key="website" value="https://pepco.pl/"/>
       <key key="phone" value="+48 61 62 88 999" />
-      <key key="email" value="klient@pepco.eu"
+      <key key="email" value="klient@pepco.eu" />
       <!-- Powtarzalne dane płatności dla stacji Orlen zweryfikowane 07.04.2021 -->
       <key key="payment:cash" value="yes"/>
       <key key="payment:contactless" value="yes"/>
