@@ -2,7 +2,7 @@
 
 Uruchomienie szablonu dla wybranej sieci automatycznie dodaje następujące informacje:
 - Linki dla danej sieci do wiki
-- Prawidłowy brand i operatora
+- Prawidłowy brand i operatora [zgodny z indexem NSI](https://nsi.guide/?t=brands)
 - Obsługiwane typy płatności i karty płatnicze
 - Obsługiwane płatnosci elektronicze w tym Blik, Google Pay, Apple Pay jeśli dana sieć je obsługuje
 
@@ -13,15 +13,12 @@ Obecnie dostępne są następujące szablony:
 - Lidl
 - Biedronka
 - Żabka
+- Orlen
+- Kaufland
+- Pepco
+- Netto
 
 W przygotowaniu
-- [ ] Netto
-- [ ] Kaufland
 - [ ] Dino
 - [ ] Polo Market
-
-Do zrobienia lub aktualizacj:
-- [ ] Dodanie namiarów na infolinię
-- [x] Usuwanie tagów:
-  - payment:debit_cards
-  - payment:credit_cards
+- [ ] Action
