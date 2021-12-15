@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Cristoffs" version="0.1_2021-12-24" icon="aed_icon.png" description="Presets for AED" shortdescription="AED tagging methods" pl.description="Szablon dla oznaczania AED" pl.shortdescription="Oznaczanie AED">
+
+  <item name="AED" pl.name="AED" icon="aed_icon.png" type="node">
+    <label text="AED tagging methods" pl.text="Oznaczanie AED" />
+    <space />
+
+    <!-- Auto add main key -->
+    <key key="emergency" value="defibllator" />
+
+    <!-- Acces methods -->
+    <combo key="access" text="Dostęp" values_searchable="true" values_sort="false">
+      <list_entry value="yes" short_description="Publicznie dostępny" />
+      <list_entry value="private" short_description="Dostępny za zgodą właściciela" />
+      <list_entry value="customers" short_description="Tylko w godzinach pracy" />
+    </combo>
+    <space />
+    <!--add notes-->
+    <space />
+    <text key="phone" pl.text="Numer do operatora urządzenia" />
+    <text key="emergency:phone" pl.text="Numer ratunkowy danego obszaru" />
+    <text key="defibrillator:location:" pl.text="Opis lokalizacji AED"/>
+    <text key="defibrillator:location:en" pl.text="Opis lokalizacji eng"/>
+    <space />
+    <preset_link preset_name="Address" />
+  </item>
+</presets>
