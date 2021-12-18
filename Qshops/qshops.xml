@@ -200,5 +200,14 @@
       <key key="payment:credit_cards"/>
       <key key="payment:coins"/>
     </item>
+        <item name="Dino" icon="" type="node,closedway">
+      <!-- Powtarzane dane sklepów Pepco -->
+      <key key="name" value="Dino" />
+      <key key="name:ru" value="Дино" />
+      <key key="brand" value="Dino"/>
+      <key key="brand:wikidata" value="Q11694239"/>
+      <key key="brand:wikipedia" value="pl:Dino Polska"/>
+      <key key="shop" value="supermarket"/>
+    </item>
   </group>
 </presets>
