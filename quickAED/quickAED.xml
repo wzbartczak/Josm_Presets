@@ -19,7 +19,7 @@
     <space />
     <text key="phone" pl.text="Numer do operatora urządzenia" />
     <text key="emergency:phone" pl.text="Numer ratunkowy danego obszaru" />
-    <text key="defibrillator:location:" pl.text="Opis lokalizacji AED"/>
+    <text key="defibrillator:location" pl.text="Opis lokalizacji AED"/>
     <text key="defibrillator:location:en" pl.text="Opis lokalizacji eng"/>
     <space />
     <preset_link preset_name="Address" />
