@@ -17,8 +17,8 @@ Obecnie dostępne są następujące szablony:
 - Kaufland
 - Pepco
 - Netto
+- Rossmann
 
 W przygotowaniu
-- [ ] Dino
 - [ ] Polo Market
 - [ ] Action

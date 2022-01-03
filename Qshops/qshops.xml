@@ -200,7 +200,7 @@
       <key key="payment:credit_cards"/>
       <key key="payment:coins"/>
     </item>
-        <item name="Dino" icon="" type="node,closedway">
+    <item name="Dino" icon="" type="node,closedway">
       <!-- Powtarzane dane sklepów Pepco -->
       <key key="name" value="Dino" />
       <key key="name:ru" value="Дино" />
@@ -208,6 +208,30 @@
       <key key="brand:wikidata" value="Q11694239"/>
       <key key="brand:wikipedia" value="pl:Dino Polska"/>
       <key key="shop" value="supermarket"/>
+    </item>
+    <item name="Rossmann" icon="rossmann.svg" type="node,closedway">
+      <!-- Powtarzane dane sklepów Rossmann -->
+      <key key="name" value="Rossmann" />
+      <key key="brand" value="Rossmann"/>
+      <key key="brand:wikidata" value="Q316004"/>
+      <key key="brand:wikipedia" value="pl:Rossmann"/>
+      <key key="operator" value="Rossmann Supermarkety Drogeryjne Polska Sp. z o.o." />
+      <key key="shop" value="chemist"/>
+      <key key="website" value="https://www.rossmann.pl"/>
+      <key key="phone" value="+48 42 61 39 100" />
+      <key key="email" value="firma@rossmann.com.pl" />
+      <!-- Powtarzalne dane płatności dla sieci Rossmann zweryfikowane 03.01.2022 -->
+      <key key="payment:cash" value="yes"/>
+      <key key="payment:contactless" value="yes"/>
+      <key key="payment:visa_electron" value="yes"/>
+      <key key="payment:visa_debit" value="yes"/>
+      <key key="payment:visa" value="yes"/>
+      <key key="payment:maestro" value="yes"/>
+      <key key="payment:mastercard" value="yes"/>
+      <!-- Usuwanie zbędnych tagów-->
+      <key key="payment:debit_cards"/>
+      <key key="payment:credit_cards"/>
+      <key key="payment:coins"/>
     </item>
   </group>
 </presets>
