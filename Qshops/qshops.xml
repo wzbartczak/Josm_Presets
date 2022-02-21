@@ -233,5 +233,32 @@
       <key key="payment:credit_cards"/>
       <key key="payment:coins"/>
     </item>
+    <item name="Hebe" icon="" type="node,closedway">
+      <!-- Powtarzalne dane sklepów Hebe -->
+      <key key="name" value="Hebe" />
+      <key key="brand" value="Hebe"/>
+      <key key="operator" value="Jeronimo Martins Drogerie i Farmacja Sp. z o.o." />
+      <key key="shop" value="chemist"/>
+      <key key="website" value="https://www.hebe.pl"/>
+      <key key="phone" value="+48 22 206 54 00" />
+      <key key="email" value="pomoc@hebe.pl" />
+	  <!-- Powtarzalne dane płatności dla sieci Hebe zweryfikowane 21.02.2022 -->
+      <key key="payment:cash" value="yes"/>
+      <key key="payment:contactless" value="yes"/>
+      <key key="payment:visa_electron" value="yes"/>
+      <key key="payment:visa_debit" value="yes"/>
+      <key key="payment:visa" value="yes"/>
+      <key key="payment:maestro" value="yes"/>
+      <key key="payment:mastercard" value="yes"/>
+	  <key key="payment:blik" value="yes" />
+      <key key="payment:google_pay" value="yes" />
+      <key key="payment:apple_pay" value="yes" />
+	  <key key="payment:payu" value="yes" />
+	  <key key="payment:twisto" value="yes" />
+      <!-- Usuwanie zbędnych tagów-->
+      <key key="payment:debit_cards"/>
+      <key key="payment:credit_cards"/>
+      <key key="payment:coins"/>
+    </item>
   </group>
 </presets>
