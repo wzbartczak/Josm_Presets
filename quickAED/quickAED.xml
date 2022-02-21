@@ -6,7 +6,7 @@
     <space />
 
     <!-- Auto add main key -->
-    <key key="emergency" value="defibllator" />
+    <key key="emergency" value="defibrillator" />
 
     <!-- Acces methods -->
     <combo key="access" text="Dostęp" values_searchable="true" values_sort="false">
@@ -23,5 +23,7 @@
     <text key="defibrillator:location:en" pl.text="Opis lokalizacji eng"/>
     <space />
     <preset_link preset_name="Address" />
+    <!--Notes: indoor umieścić-->
+
   </item>
 </presets>
