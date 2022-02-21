@@ -200,7 +200,7 @@
       <key key="payment:credit_cards"/>
       <key key="payment:coins"/>
     </item>
-    <item name="Dino" icon="" type="node,closedway">
+    <item name="Dino" icon="dino.svg" type="node,closedway">
       <!-- Powtarzane dane sklepów Pepco -->
       <key key="name" value="Dino" />
       <key key="name:ru" value="Дино" />
