@@ -18,6 +18,9 @@ Obecnie dostępne są następujące szablony:
 - Pepco
 - Netto
 - Rossmann
+- Hebe
+- Lewiatan
+- Delikatesy Centrum
 
 W przygotowaniu
 - [ ] Polo Market
