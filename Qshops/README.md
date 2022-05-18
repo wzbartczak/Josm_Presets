@@ -6,7 +6,7 @@ Uruchomienie szablonu dla wybranej sieci automatycznie dodaje następujące info
 - Obsługiwane typy płatności i karty płatnicze
 - Obsługiwane płatnosci elektronicze w tym Blik, Google Pay, Apple Pay jeśli dana sieć je obsługuje
 
-Dane płatności aktualne na dzień stan na 12.2020
+Dane płatności aktualne na dzień stan na 12.2020 lub późniejsze w zależności od sieci
 
 
 Obecnie dostępne są następujące szablony:
@@ -18,6 +18,10 @@ Obecnie dostępne są następujące szablony:
 - Pepco
 - Netto
 - Rossmann
+- Hebe
+- Lewiatan
+- Delikatesy Centrum
+- Aldi
 
 W przygotowaniu
 - [ ] Polo Market
