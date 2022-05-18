@@ -2,7 +2,7 @@
 <presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
   author="Włodzimierz Bartczak"
   icon="qshops.svg"
-  version="0.1_2022-02-22"
+  version="0.2_2022-05-18"
   shortdescription="Quick settings"
   pl.shortdescription="Szybkie ustawienia"
   description="Quick settings for shops in Poland"
@@ -233,7 +233,7 @@
       <key key="payment:credit_cards"/>
       <key key="payment:coins"/>
     </item>
-    <item name="Hebe" icon="" type="node,closedway">
+	<item name="Hebe" icon="" type="node,closedway">
       <!-- Powtarzalne dane sklepów Hebe -->
       <key key="name" value="Hebe" />
       <key key="brand" value="Hebe"/>
@@ -242,7 +242,7 @@
       <key key="website" value="https://www.hebe.pl"/>
       <key key="phone" value="+48 22 206 54 00" />
       <key key="email" value="pomoc@hebe.pl" />
-      <!-- Powtarzalne dane płatności dla sieci Hebe zweryfikowane 21.02.2022 -->
+	  <!-- Powtarzalne dane płatności dla sieci Hebe zweryfikowane 21.02.2022 -->
       <key key="payment:cash" value="yes"/>
       <key key="payment:contactless" value="yes"/>
       <key key="payment:visa_electron" value="yes"/>
@@ -250,17 +250,17 @@
       <key key="payment:visa" value="yes"/>
       <key key="payment:maestro" value="yes"/>
       <key key="payment:mastercard" value="yes"/>
-      <key key="payment:blik" value="yes" />
+	  <key key="payment:blik" value="yes" />
       <key key="payment:google_pay" value="yes" />
       <key key="payment:apple_pay" value="yes" />
-      <key key="payment:payu" value="yes" />
-      <key key="payment:twisto" value="yes" />
+	  <key key="payment:payu" value="yes" />
+	  <key key="payment:twisto" value="yes" />
       <!-- Usuwanie zbędnych tagów-->
       <key key="payment:debit_cards"/>
       <key key="payment:credit_cards"/>
       <key key="payment:coins"/>
     </item>
-    <item name="Lewiatan" icon="" type="node,closedway">
+	<item name="Lewiatan" icon="" type="node,closedway">
       <!-- Powtarzalne dane sieci Lewiatan -->
       <key key="name" value="Lewiatan" />
       <key key="name:uk" value="Левіатан"/>
@@ -275,19 +275,50 @@
       <key key="facebook" value="https://www.facebook.com/psh.lewiatan"/>
       <!-- Powtarzalne dane płatności dla sieci Lewiatan niedostepne -->	    
     </item>
-    <item name="Delikatesy Centrum" icon="" type="node,closedway">
+	<item name="Delikatesy Centrum" icon="" type="node,closedway">
       <!-- Powtarzalne dane sklepów Delikatesy Centrum -->
       <key key="name" value="Delikatesy Centrum"/>
       <key key="brand" value="Delikatesy Centrum"/>
       <key key="brand:wikidata" value="Q11693824"/>
       <key key="brand:wikipedia" value="pl:Delikatesy Centrum"/>	  
-      <key key="operator" value="Eurocash Franczyza sp. z o.o." />
+      <key key="operator" value="Eurocash Franczyza sp. z o.o."/>
       <key key="shop" value="convenience"/>
       <key key="website" value="https://www.delikatesy.pl"/>
       <key key="phone" value="+48 22 574 05 05"/>
       <key key="contact:website" value="https://www.delikatesy.pl/kontakt"/>
       <key key="facebook" value="https://www.facebook.com/Delikatesypl"/>
-      <!-- Powtarzalne dane płatności dla sieci Delikatesy Centrum niedostepne -->	    
-    </item>  
+      <!-- Powtarzalne dane płatności dla sieci Delikatesy Centrum niedostepne: różne w zależnośi od sklepu -->	    
+    </item>
+	<item name="Aldi" icon="aldi.png" type="node,closedway">
+      <!-- Powtarzalne dane sklepów Aldi -->
+      <key key="name" value="Aldi" />
+      <key key="brand" value="Aldi"/>
+	  <key key="brand:wikidata" value="Q125054"/>
+      <key key="brand:wikipedia" value="pl:Aldi"/>
+      <key key="operator" value="Aldi Nord" />
+      <key key="shop" value="supermarket"/>
+      <key key="website" value="https://www.aldi.pl/"/>
+      <key key="phone" value="+48 800 118 118" />
+      <key key="email" value="obsluga.klienta@aldi.pl" />
+	  <key key="facebook" value="https://www.facebook.com/aldipolska/" />
+      <key key="instagram" value="https://www.instagram.com/accounts/login/?next=/aldi.polska/" />
+
+	  <!-- Powtarzalne dane płatności dla sieci Aldi zweryfikowane 18.05.2022 -->
+      <key key="payment:cash" value="yes"/>
+      <key key="payment:contactless" value="yes"/>
+      <key key="payment:visa_electron" value="yes"/>
+      <key key="payment:visa_debit" value="yes"/>
+      <key key="payment:visa" value="yes"/>
+      <key key="payment:maestro" value="yes"/>
+      <key key="payment:mastercard" value="yes"/>
+	  <key key="payment:blik" value="yes" />
+      <key key="payment:google_pay" value="yes" />
+	  <key key="payment:sodexo" value="yes" />
+	  <key key="payment:vpay" value="yes" />
+      <!-- Usuwanie zbędnych tagów-->
+      <key key="payment:debit_cards"/>
+      <key key="payment:credit_cards"/>
+      <key key="payment:coins"/>
+    </item>
   </group>
 </presets>
