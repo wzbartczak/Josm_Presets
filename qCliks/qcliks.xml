@@ -29,6 +29,12 @@
     <key key="highway" value="service" />
     <key key="service" value="driveway" />
     </item>
+    <!--Tworzy przejście dla pieszych-->
+    <item name="Crossing" pl.name="Przejście OZ" icon="" type="way">
+    <key key="highway" value="crossing" />
+    <key key="crossing" value="marked" />
+    <key key="crossing:markings" value="zebra" />
+    </item>
     <!--Tworzy obszar szuwar-->
     <item name="Reedbed" pl.name="Szuwary" icon="" type="closeway">
     <key key="natural" value="wetland" />
